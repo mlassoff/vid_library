@@ -136,7 +136,7 @@
         "CAT_CODING",
         "CAT_JAVASCRIPT",
         "CAT_PROJECTS",
-        "CAT_LASSOFF"
+        "LASSOFF"
       ],
       "content": {
         "dateAdded": "2019-11-08T12:17:49-05:00",
@@ -463,7 +463,7 @@
       "title": "7 Tips to Start Coding Today",
       "shortDescription": "Are you wondering how to begin coding? Do you want to learn to program but haven't found the right place to start? In this video, join Framework's Mark Lassoff as he reviews 7 Tips to help you Begin Coding today. Mark will discuss how to get started if you want to learn to code and provide invaluable tips that will get you moving down the right path.\n",
       "thumbnail": "https://i.vimeocdn.com/video/854762745_800x450.png",
-      "releaseDate": "2020-02-10T15:11:14-05:00\n",
+      "releaseDate": "2020-02-10T15:11:14-05:00",
       "genres": [
         "educational",
         "technology"
