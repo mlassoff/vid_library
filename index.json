@@ -574,6 +574,36 @@
           }
         ]
       }
+    },
+    {
+      "id": "424771121",
+      "title": "Augmented Reality with Reality Composer",
+      "shortDescription": "Learn how to create Augmented Reality applications with Apple's Reality Composer for Mac and iOS. Jeff Batt demonstrates taking a simple real-life sign and adding augmented reality features.",
+      "thumbnail": "https://i.vimeocdn.com/video/901920189_800x450.png",
+      "releaseDate": "2020-06-01T09:04:37-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "CAT_NEW_RELEASES",
+        "CAT_WEB_DEVELOPMENT",
+        "CAT_CODELAB",
+        "CAT_CODING",
+        "BATT"
+      ],
+      "content": {
+        "dateAdded": "2020-06-01T09:04:37-04:00",
+        "duration": 1681,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/424771121.sd.mp4?s=3282a75883ae397b04643f1ad71aeb7a1b816a96&profile_id=164",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 304430
+          }
+        ]
+      }
     }
   ]
 }
