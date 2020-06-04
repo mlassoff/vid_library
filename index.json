@@ -664,6 +664,186 @@
           }
         ]
       }
+    },
+    {
+      "id": "399474786",
+      "title": "Code Camp Day 003",
+      "shortDescription": "Welcome to Day Three of the Covid-19 Code Camp. In this code camp, you'll learn the basics of programming, making web sites and digital design. If you're going to be stuck inside, you might as well make your time productive. Join Mark Lassoff and the cast of Framework Television for the free Covid-19 Code Camp. In this episode, we'll work with lists, tuples, and loops in the Python language.",
+      "thumbnail": "https://i.vimeocdn.com/video/867514693_800x450.png",
+      "releaseDate": "2020-03-21T14:19:05-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "CAT_NEW_RELEASES",
+        "CAT_CODECAMP",
+        "CAT_CODING",
+        "CAT_PYTHON",
+        "LASSOFF"
+      ],
+      "content": {
+        "dateAdded": "2020-06-04T11:06:05-04:00",
+        "duration": 1026,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/399474786.hd.mp4?s=615a6bd1a655f8809797f6736577936f6b1e5f77&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 533418
+          }
+        ]
+      }
+    },
+    {
+      "id": "400057147",
+      "title": "Code Camp Day 004",
+      "shortDescription": "Welcome to Day Four of the Covid-19 aCode Camp. In this code camp, you'll learn the basics of programming, making web sites and digital design. If you're going to be stuck inside, you might as well make your time productive. Join Mark Lassoff and the cast of Framework Television for the free Covid-19 Code Camp. In this episode, we'll work with our first data-structure: dictionaries.",
+      "thumbnail": "https://i.vimeocdn.com/video/868323030_800x450.png",
+      "releaseDate": "2020-03-23T18:43:57-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "CAT_NEW_RELEASES",
+        "CAT_CODECAMP",
+        "CAT_CODING",
+        "CAT_PYTHON",
+        "LASSOFF"
+      ],
+      "content": {
+        "dateAdded": "2020-06-04T11:06:05-04:00",
+        "duration": 1169,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/400057147.hd.mp4?s=df4d758847b8d9f5e30233448df88523a8a12001&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 517036
+          }
+        ]
+      }
+    },
+    {
+      "id": "400428757",
+      "title": "Code Camp Day 005",
+      "shortDescription": "Welcome to Day Five of the Covid-19 Code Camp. In this code camp, you'll learn the basics of programming, making web sites and digital design. If you're going to be stuck inside, you might as well make your time productive. Join Mark Lassoff and the cast of Framework Television for the free Covid-19 Code Camp. In this episode, you'll learn the details of Python functions. Mark will show you simple functions, parameterized functions, and functions that return a value.",
+      "thumbnail": "https://i.vimeocdn.com/video/868821179_800x450.png",
+      "releaseDate": "2020-03-24T19:12:24-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "CAT_NEW_RELEASES",
+        "CAT_CODECAMP",
+        "CAT_CODING",
+        "CAT_PYTHON",
+        "LASSOFF"
+      ],
+      "content": {
+        "dateAdded": "2020-06-04T11:06:05-04:00",
+        "duration": 973,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/400428757.hd.mp4?s=fc9d6dd92da6789246027a2e4f405f36371e537a&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 541506
+          }
+        ]
+      }
+    },
+    {
+      "id": "401162703",
+      "title": "Code Camp Day 006",
+      "shortDescription": "Welcome to Day Six of the COVID-19 Code Camp. In this code camp, you'll learn the basics of programming, making web sites and digital design. If you're going to be stuck inside, you might as well make your time productive. Join Mark Lassoff and the cast of Framework Television for the free Covid-19 Code Camp. In this episode, you'll learn the details of Python classes and objects. Mark will demonstrate creating and instantiating a simple class and you'll create one of your own!",
+      "thumbnail": "https://i.vimeocdn.com/video/869800175_800x450.png",
+      "releaseDate": "2020-03-26T19:28:19-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "CAT_NEW_RELEASES",
+        "CAT_CODECAMP",
+        "CAT_CODING",
+        "CAT_PYTHON",
+        "LASSOFF"
+      ],
+      "content": {
+        "dateAdded": "2020-06-04T11:06:05-04:00",
+        "duration": 820,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/401162703.hd.mp4?s=13a35182cee1dc549c446080b78cd80f38ac42ff&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 554168
+          }
+        ]
+      }
+    },
+    {
+      "id": "404050131",
+      "title": "Code Camp Day 007",
+      "shortDescription": "\"Welcome to Day Seven of the COVID-19 Code Camp. In this code camp, you'll learn the basics of programming, making web sites and digital design. If you're going to be stuck inside, you might as well make your time productive. Join Mark Lassoff and the cast of Framework Television for the free COVID-19 Code Camp. In this episode, you'll learn more about Python classes and objects. Mark will demonstrate creating subclasses and parent-child relationships. ",
+      "thumbnail": "https://i.vimeocdn.com/video/873756643_800x450.png",
+      "releaseDate": "2020-04-04T12:11:20-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "CAT_NEW_RELEASES",
+        "CAT_CODECAMP",
+        "CAT_CODING",
+        "CAT_PYTHON",
+        "LASSOFF"
+      ],
+      "content": {
+        "dateAdded": "2020-06-04T11:06:05-04:00",
+        "duration": 804,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/404050131.hd.mp4?s=307c80121ab8d138b56d6fcdf85097dc33e84d1d&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 578126
+          }
+        ]
+      }
+    },
+    {
+      "id": "406954386",
+      "title": "Code Camp Day 008",
+      "shortDescription": "Welcome to Day Eight of the COVID-19 Code Camp. In this code camp, you'll learn the basics of programming, making web sites and digital design. If you're going to be stuck inside, you might as well make your time productive. Join Mark Lassoff and the cast of Framework Television for the free COVID-19 Code Camp. In this episode, you'll learn more about Python file I/O (Input/Output). Mark will demonstrate saving and loading files as well as CSV files.",
+      "thumbnail": "https://i.vimeocdn.com/video/877508596_800x450.png",
+      "releaseDate": "2020-06-04T11:06:05-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "CAT_NEW_RELEASES",
+        "CAT_CODECAMP",
+        "CAT_CODING",
+        "CAT_PYTHON",
+        "LASSOFF"
+      ],
+      "content": {
+        "dateAdded": "2020-06-04T11:06:05-04:00",
+        "duration": 872,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/406954386.hd.mp4?s=c3fd4bd8218b99f49ac9653314db1d428a3d21d4&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 497380
+          }
+        ]
+      }
     }
   ]
 }
