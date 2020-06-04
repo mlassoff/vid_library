@@ -634,6 +634,36 @@
           }
         ]
       }
+    },
+    {
+      "id": "398977446",
+      "title": "Code Camp Day 002",
+      "shortDescription": "Welcome to Day Two of the Covid-19 Code Camp. In this code camp, you'll learn the basics of programming, making web sites and digital design. If you're going to be stuck inside, you might as well make your time productive. Join Mark Lassoff and the cast of Framework Television for the free Covid-19 Code Camp. In this episode, you'll continue learning the Python programming language.",
+      "thumbnail": "https://i.vimeocdn.com/video/866810189_800x450.png",
+      "releaseDate": "2020-03-19T17:39:39-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "CAT_NEW_RELEASES",
+        "CAT_CODECAMP",
+        "CAT_CODING",
+        "CAT_PYTHON",
+        "LASSOFF"
+      ],
+      "content": {
+        "dateAdded": "2020-06-04T11:06:05-04:00",
+        "duration": 748,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/398977446.hd.mp4?s=1d6e63af9e0bf129ece84432cf1323d6f9aac7e4&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 499729
+          }
+        ]
+      }
     }
   ]
 }
