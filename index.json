@@ -836,6 +836,206 @@
           }
         ]
       }
+    },
+    {
+      "id": "425985101",
+      "title": "Atom Text Editor | Tool School 001",
+      "shortDescription": "David reviews one of our favorite text editors: Atom. Learn about this great tool and how you can use it to write code.",
+      "thumbnail": "https://i.vimeocdn.com/video/904005650_800x450.png",
+      "releaseDate": "2020-06-04T14:46:12-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "CAT_TOOL_SCHOOL",
+        "KATZ",
+        "CAT_CODING",
+        ""
+      ],
+      "content": {
+        "dateAdded": "2020-06-04T19:05:07-04:00",
+        "duration": 184,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/425985101.hd.mp4?s=f80c7a646608dfc422b0ddd96e38b9fb9f65d15a&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 1434389
+          }
+        ]
+      }
+    },
+    {
+      "id": "425985205",
+      "title": "Best Free Stock Photo Sites | Tool School 002",
+      "shortDescription": "Every web developer needs stock photos. David reviews resources with over 1 million free stock photos available.",
+      "thumbnail": "https://i.vimeocdn.com/video/904015943_800x450.png",
+      "releaseDate": "2020-06-04T14:46:35-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "CAT_TOOL_SCHOOL",
+        "KATZ",
+        "CAT_DESIGN",
+        ""
+      ],
+      "content": {
+        "dateAdded": "2020-06-04T19:33:28-04:00",
+        "duration": 320,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/425985205.hd.mp4?s=a5c430708c108c1970052348281ad225eda99ef6&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 2101779
+          }
+        ]
+      }
+    },
+    {
+      "id": "425985077",
+      "title": "CSS Animations with Animista | Tool School 003",
+      "shortDescription": "Animista is a pretty cool tool that allows you to create CSS animations without writing a lot of complex code.",
+      "thumbnail": "https://i.vimeocdn.com/video/904005143_800x450.png",
+      "releaseDate": "2020-06-04T14:46:07-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "CAT_TOOL_SCHOOL",
+        "KATZ",
+        "CAT_DESIGN",
+        "CAT_CODING"
+      ],
+      "content": {
+        "dateAdded": "2020-06-04T19:03:19-04:00",
+        "duration": 191,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/425985077.hd.mp4?s=aa841e20e6583b08a3eb66e222d536e9a3c0f563&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 1431787
+          }
+        ]
+      }
+    },
+    {
+      "id": "425985150",
+      "title": "Web Code Tools | Tool School 004",
+      "shortDescription": "Learn about a tool that actually helps you remember and write code!  David looks at code generators on this episode of Tool School!",
+      "thumbnail": "https://i.vimeocdn.com/video/904010818_800x450.png",
+      "releaseDate": "2020-06-04T14:46:23-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "CAT_TOOL_SCHOOL",
+        "KATZ",
+        "CAT_CODING"
+      ],
+      "content": {
+        "dateAdded": "2020-06-04T19:18:22-04:00",
+        "duration": 225,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/425985150.hd.mp4?s=771ddc44240163a9786cd82a12781b0e60e6576d&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 1421106
+          }
+        ]
+      }
+    },
+    {
+      "id": "425985120",
+      "title": "How to Create a Prototype... Fast | Tool School 005",
+      "shortDescription": "David discusses a number of tools you can use for rapid website prototyping.",
+      "thumbnail": "https://i.vimeocdn.com/video/904006949_800x450.png",
+      "releaseDate": "2020-06-04T14:46:16-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "CAT_TOOL_SCHOOL",
+        "KATZ",
+        "CAT_DESIGN"
+      ],
+      "content": {
+        "dateAdded": "2020-06-04T19:18:22-04:00",
+        "duration": 283,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/425985120.hd.mp4?s=6187a6321a1909b252e108c9b01826610692353e&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 1422776
+          }
+        ]
+      }
+    },
+    {
+      "id": "425985178",
+      "title": "Productivity For Programmers | Tool School 006",
+      "shortDescription": "Mark reviews a number of tips to make programmers more productive on this episode of Tool School.",
+      "thumbnail": "https://i.vimeocdn.com/video/904013510_800x450.png",
+      "releaseDate": "2020-06-04T14:46:28-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "CAT_TOOL_SCHOOL",
+        "LASSOFF",
+        "CAT_CODING"
+      ],
+      "content": {
+        "dateAdded": "2020-06-04T19:25:37-04:00",
+        "duration": 284,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/425985178.hd.mp4?s=247fb177d3c9e92941859c48d5da076cda8c2648&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 1571433
+          }
+        ]
+      }
+    },
+    {
+      "id": "426055821",
+      "title": "Top CSS Libraries | Tool School 007",
+      "shortDescription": "CSS Libraries do a lot of the heavy lifting in your web site design. Review some top libraries with Mark in this video.",
+      "thumbnail": "https://i.vimeocdn.com/video/904002737_800x450.png",
+      "releaseDate": "2020-06-04T18:48:18-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "CAT_TOOL_SCHOOL",
+        "LASSOFF",
+        "CAT_CODING",
+        "CAT_DESIGN"
+      ],
+      "content": {
+        "dateAdded": "2020-06-04T19:01:48-04:00",
+        "duration": 287,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/426055821.hd.mp4?s=454da9373d38daa4106e9ecca4f3a9df66fcd35c&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 3607746
+          }
+        ]
+      }
     }
   ]
 }
