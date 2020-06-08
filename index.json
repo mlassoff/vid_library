@@ -1041,7 +1041,7 @@
       "id": "427075289",
       "title": "Controlling Video with JavaScript | Framework Site Tour",
       "shortDescription": "Learn how JavaScript is applied as Mark gives you a behind-the-scenes tour of the new Framework Website. Mark will discuss controlling video with javascript as he goes through the company's new video site line-by-line. You'll learn how to use a JSON feed to create a video catalog site that allows users to select and play videos in several different categories. The site uses the HTML5 video player, along with JavaScript controls.",
-      "thumbnail": "https://i.vimeocdn.com/video/905801777_800x450.png\n",
+      "thumbnail": "https://i.vimeocdn.com/video/905801777_800x450.png",
       "releaseDate": "2020-06-08T12:44:11-04:00",
       "genres": [
         "educational",
