@@ -1065,6 +1065,66 @@
           }
         ]
       }
+    },
+    {
+      "id": "427849086",
+      "title": "Google Identity Platform Tutorial: Build Episode 001",
+      "shortDescription": "Want an easy way to add authentication to your web site? In this premiere episode of BUILD, Ken Larson leads a Google Identity Platform Tutorial. Ken leads you through the process of registering your application with Google and then demonstrates the code used for authentication. There is no easier way to add authentication than the Google Cloud Identity Platform.",
+      "thumbnail": "https://i.vimeocdn.com/video/908044001_800x450.png",
+      "releaseDate": "2020-06-10T15:11:02-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "LARSON",
+        "CAT_CODING",
+        "CAT_WEBDEVELOPMENT",
+        "CAT_NEW_RELEASES",
+        "CAT_BUILD"
+      ],
+      "content": {
+        "dateAdded": "2020-06-12T12:38:47-04:00",
+        "duration": 2258,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/427849086.hd.mp4?s=bbb21752dbb7b29fa9baa257a26ab4d26ff37014&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 1018481
+          }
+        ]
+      }
+    },
+    {
+      "id": "428536887",
+      "title": "\"Responsive with Navbar HTML CSS Jquery",
+      "shortDescription": "Learn how to build a responsive navbar (HTML CSS, jQuery) in this episode of CodeLab. Join CodeLab host Chris for this step-by-step tutorial on creating a responsive navbar. Chris will be using HTML, CSS, and jQuery to create the navbar. Using responsive design, the navbar created in the tutorial will be usable for large screens and mobile devices. You'll get all the HTML, CSS, and jQuery code to create the navbar and you are free to update the code to create your own responsive navbar design.",
+      "thumbnail": "https://i.vimeocdn.com/video/908021544_800x450.png",
+      "releaseDate": "2020-06-12T11:44:34-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "NOVELLI",
+        "CAT_CODING",
+        "CAT_WEBDEVELOPMENT",
+        "CAT_NEW_RELEASES",
+        "CAT_CODELAB"
+      ],
+      "content": {
+        "dateAdded": "2020-06-12T11:51:32-04:00",
+        "duration": 1911,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/428536887.hd.mp4?s=10bfef56945d4c9b30dca8d99f08b35b073c59d7&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 1175994
+          }
+        ]
+      }
     }
   ]
 }
