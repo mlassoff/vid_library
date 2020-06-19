@@ -1125,6 +1125,66 @@
           }
         ]
       }
+    },
+    {
+      "id": "430778395",
+      "title": "Learn jQuery for Beginners: Build Episode 002",
+      "shortDescription": "Learn jQuery for Beginners. Join us this episode of Build where host Walt Dombrowski helps you learn jQuery. You don't need any previous experience to go through the techniques in this video, which is a jquery tutorial for beginners. ",
+      "thumbnail": "https://i.vimeocdn.com/video/911571680_800x450.png",
+      "releaseDate": "2020-06-19T12:33:06-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "DOMBROWSKI",
+        "CAT_CODING",
+        "CAT_WEBDEVELOPMENT",
+        "CAT_NEW_RELEASES",
+        "CAT_BUILD"
+      ],
+      "content": {
+        "dateAdded": "2020-06-19T12:48:59-04:00",
+        "duration": 3443,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/430778395.hd.mp4?s=ec32b8cad4daceb0f213c26820ae96fd74db5068&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 628218
+          }
+        ]
+      }
+    },
+    {
+      "id": "430808710",
+      "title": "How To Make Checkout Page In Html | CodeLab 004",
+      "shortDescription": "Learn How to Make Checkout Page in HTML. Join us this episode of CodeLab where host Mark Lassoff will show you how to make a checkout page in HTML. You don't need any previous experience to go through the techniques in this video, which uses HTML and CSS to build the checkout page.",
+      "thumbnail": "https://i.vimeocdn.com/video/911612659_800x450.png",
+      "releaseDate": "2020-06-19T14:12:49-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "LASSOFF",
+        "CAT_CODING",
+        "CAT_WEBDEVELOPMENT",
+        "CAT_NEW_RELEASES",
+        "CAT_CODELAB"
+      ],
+      "content": {
+        "dateAdded": "2020-06-19T14:14:23-04:00",
+        "duration": 1714,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/430808710.hd.mp4?s=d1bd94c7e76dd57e4ddfd013677a0e2e93c1fea2&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 1193314
+          }
+        ]
+      }
     }
   ]
 }
