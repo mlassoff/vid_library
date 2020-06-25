@@ -1185,6 +1185,66 @@
           }
         ]
       }
+    },
+    {
+      "id": "432556044",
+      "title": "Phaser Project: Build Your First JavaScript Game with the Phaser Library | BUILD 003",
+      "shortDescription": "Learn to build games in JavaScript with this easy Phaser Project. Mark will take you step-by-step through building a game using HTML, JavaScipt, and the Phaser game library. You can use the code as a Phaser project template, as you continue to build your own games using JavaScript. Int he video Mark builds a simple target shooting game with the Phaser library. You'll learn how to display images and animations, play sounds, control with the keyboard, and much more.",
+      "thumbnail": "https://i.vimeocdn.com/video/914454933_800x450.png",
+      "releaseDate": "2020-06-25T12:18:20-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "LASSOFF",
+        "CAT_CODING",
+        "CAT_WEBDEVELOPMENT",
+        "CAT_NEW_RELEASES",
+        "CAT_BUILD"
+      ],
+      "content": {
+        "dateAdded": "2020-06-25T12:20:54-04:00",
+        "duration": 2011,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/432556044.hd.mp4?s=d38ac3c452d68307c713f1f07fe2851a6d1ed286&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 1337759
+          }
+        ]
+      }
+    },
+    {
+      "id": "432556174",
+      "title": "Bootstrap Flexbox Layout | CodeLab 005",
+      "shortDescription": "Learn how to create a complex Bootstrap Flex Layout. Using the techniques Jeff demonstrates in this video you'll learn how to create responsive layouts with Flexboxes in Bootstrap 4. This tutorial will use the flex layout technology with a Bootstrap layout.",
+      "thumbnail": "https://i.vimeocdn.com/video/914455752_800x450.png",
+      "releaseDate": "2020-06-25T12:18:49-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "BATT",
+        "CAT_CODING",
+        "CAT_WEBDEVELOPMENT",
+        "CAT_NEW_RELEASES",
+        "CAT_CODELAB"
+      ],
+      "content": {
+        "dateAdded": "2020-06-25T12:18:49-04:00",
+        "duration": 1872,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/432556174.hd.mp4?s=15339addb44de1e56fd1cf385e7b497f117eb157&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 862523
+          }
+        ]
+      }
     }
   ]
 }
