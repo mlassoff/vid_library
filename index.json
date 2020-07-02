@@ -1245,6 +1245,36 @@
           }
         ]
       }
+    },
+    {
+      "id": "434820263",
+      "title": "How To Build A Web Scraper In Python | CodeLab 006",
+      "shortDescription": "Learn how to create a complex Bootstrap Flex Layout. Using the techniques Jeff demonstrates in this video you'll learn how to create responsive layouts with Flexboxes in Bootstrap 4. This tutorial will use the flex layout technology with a Bootstrap layout.",
+      "thumbnail": "https://i.vimeocdn.com/video/918308755_800x450.png",
+      "releaseDate": "2020-07-02T14:28:49-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "NOVELLI",
+        "CAT_CODING",
+        "CAT_PYTHON",
+        "CAT_NEW_RELEASES",
+        "CAT_CODELAB"
+      ],
+      "content": {
+        "dateAdded": "2020-07-02T14:52:58-04:00",
+        "duration": 2097,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/434820263.hd.mp4?s=8f9c89ad1d436fcecfacfdf9cea49832ce6f3964&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 1025694
+          }
+        ]
+      }
     }
   ]
 }
