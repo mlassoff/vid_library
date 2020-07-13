@@ -1275,6 +1275,36 @@
           }
         ]
       }
+    },
+    {
+      "id": "437864312",
+      "title": "HTML5 Tips And Tricks",
+      "shortDescription": "In this video, Mark shows you a few HTML5 tips and tricks. You'll learn tricks such as using HTML5 column layout and HTML5 events. Mark will show you all the HTML5 code and any CSS and JavaScript needed to support these tips and tricks. The Framework Coding Show helps you learn to code featuring new tutorials designed for new developers.",
+      "thumbnail": "https://i.vimeocdn.com/video/923629220_800x450.png",
+      "releaseDate": "2020-07-13T10:03:34-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "LASSOFF",
+        "CAT_CODING",
+        "CAT_HTML",
+        "CAT_NEW_RELEASES",
+        "CAT_FCS"
+      ],
+      "content": {
+        "dateAdded": "2020-07-13T10:05:07-04:00",
+        "duration": 1026,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/437864312.hd.mp4?s=764b34ca2be3e136f461b793e4f10b93a63fa0b5&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 1115446
+          }
+        ]
+      }
     }
   ]
 }
