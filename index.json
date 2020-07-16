@@ -1305,6 +1305,36 @@
           }
         ]
       }
+    },
+    {
+      "id": "439005828",
+      "title": "Getting Started With Bootstrap",
+      "shortDescription": "Join Walt for this Bootstrap tutorial where you'll learn about getting started with Bootstrap for page layout. If you want to learn Bootstrap, this video goes over seven power tips to help you use Bootstrap for web development.",
+      "thumbnail": "https://i.vimeocdn.com/video/925453743_800x450.png",
+      "releaseDate": "2020-07-16T14:28:56-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "DOMBROWSKI",
+        "CAT_CODING",
+        "CAT_HTML",
+        "CAT_NEW_RELEASES",
+        "CAT_BUILD"
+      ],
+      "content": {
+        "dateAdded": "2020-07-16T14:31:17-04:00",
+        "duration": 2685,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/439005828.hd.mp4?s=f9b7d576b83aabb532f6e4b0b3b9b5142dd0fe13&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 777138
+          }
+        ]
+      }
     }
   ]
 }
