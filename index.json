@@ -1335,6 +1335,65 @@
           }
         ]
       }
+    },
+    {
+      "id": "440681092",
+      "title": "Text Editors For Web Development",
+      "shortDescription": "What's your favorite text editor? In this episode of the Framework Coding Show, Mark reviews his seven favorite text editors for web development and reveals this top pic. All of the text editors presented are great options for coders looking for text editors for Windows or the best text editors for Mac.",
+      "thumbnail": "https://i.vimeocdn.com/video/928309479_800x450.png",
+      "releaseDate": "2020-07-22T10:30:18-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "LASSOFF",
+        "CAT_FCS",
+        "CAT_CODING",
+        "CAT_NEW_RELEASES"
+      ],
+      "content": {
+        "dateAdded": "2020-07-22T10:34:13-04:00",
+        "duration": 735,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440681092.hd.mp4?s=e41d760d221682b3103f97f37a355e61e4fa4d0e&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 1704475
+          }
+        ]
+      }
+    },
+    {
+      "id": "440353073",
+      "title": "JavaScript Web Services Tutorial",
+      "shortDescription": "In this episode of CodeLab, Mark provides a JavaScript Web Services Tutorial. You're invited to code along as Mark uses the News API to create this JavaScript web services application. You'll learn how to query the web service, use the JavaScript fetch API to contact the web service, and parse the JSON results that are returned. All the code from this web services tutorial is available to you.",
+      "thumbnail": "https://i.vimeocdn.com/video/927765428_800x450.png",
+      "releaseDate": "2020-07-21T11:09:06-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "LASSOFF",
+        "CAT_CODELAB",
+        "CAT_CODING",
+        "CAT_NEW_RELEASES",
+        "CAT_JAVASCRIPT"
+      ],
+      "content": {
+        "dateAdded": "2020-07-22T10:34:13-04:00",
+        "duration": 1583,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/440353073.hd.mp4?s=f24f2680705cae146dd60689ee9300c98cef267f&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 1537613
+          }
+        ]
+      }
     }
   ]
 }
