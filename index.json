@@ -1394,6 +1394,63 @@
           }
         ]
       }
+    },
+    {
+      "id": "442071350",
+      "title": "Animate CSS Tutorial",
+      "shortDescription": "Want to add animations to your web content? Join Jeff Batt on this week's episode of CodeLab to work with the animate.css framework. Jeff will offer a complete animate.css tutorial as he builds a page that includes several animated elements. You will work through several examples of using Animate CSS and Javascript to trigger animations with the Animate CSS Framework.",
+      "thumbnail": "https://i.vimeocdn.com/video/930761518_800x450.png",
+      "releaseDate": "2020-07-27T11:44:14-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "Batt",
+        "CAT_CODELAB",
+        "CAT_CODING",
+        "CAT_NEW_RELEASES"
+      ],
+      "content": {
+        "dateAdded": "2020-07-27T12:21:38-04:00",
+        "duration": 1381,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/442071350.hd.mp4?s=19108d5293d6935a3ffd988ce5eff72c95a206b9&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 1025315
+          }
+        ]
+      }
+    },
+    {
+      "id": "442056354",
+      "title": "Rule of Thirds",
+      "shortDescription": "Applying the rule of thirds will revolutionize how you layout pages and screens. Taken from Framework's Certified Digital Design Professional Program.",
+      "thumbnail": "https://i.vimeocdn.com/video/930739915_800x450.png",
+      "releaseDate": "2020-07-27T10:57:59-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "LASSOFF",
+        "CAT_DESIGN",
+        "CAT_NEW_RELEASES"
+      ],
+      "content": {
+        "dateAdded": "2020-07-27T11:02:54-04:00",
+        "duration": 128,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/442056354.hd.mp4?s=16864d5cd921f61d6c0e18abff15f7a0c9e0d9ce&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 1421488
+          }
+        ]
+      }
     }
   ]
 }
