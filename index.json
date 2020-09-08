@@ -1451,6 +1451,385 @@
           }
         ]
       }
+    },
+    {
+      "id": "455831672",
+      "title": "HTML5 Full Course",
+      "shortDescription": "An HTML5 full course in one video. This free HTML5 course for beginners will teach you HTML5 and the foundations of web development. HTML5 is the scaffolding that lays beneath every web site and this full course covers everything you need to know.",
+      "thumbnail": "https://i.vimeocdn.com/video/953892220_800x450.png",
+      "releaseDate": "2020-09-08T10:22:21-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "LASSOFF",
+        "COURSE_HTML",
+        "CAT_NEW_RELEASES"
+      ],
+      "content": {
+        "dateAdded": "2020-09-08T12:15:18-04:00",
+        "duration": 5880,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455831672.hd.mp4?s=5499337a9198f40dc832f6d742e3cfdd9701aa10&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 1061411
+          }
+        ]
+      }
+    },
+    {
+      "id": "455806388",
+      "title": "HTML 01: Text Editor Setup",
+      "shortDescription": "Set up Your Text Editor for working with HTML. Mark demonstrates VS Code, a top editor for developers.",
+      "thumbnail": "https://i.vimeocdn.com/video/953915698_800x450.png",
+      "releaseDate": "2020-09-08T09:08:22-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "LASSOFF",
+        "COURSE_HTML"
+      ],
+      "content": {
+        "dateAdded": "2020-09-08T12:15:18-04:00",
+        "duration": 465,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455806388.hd.mp4?s=795050e33f180012f60be7401f4ea669e700da88&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 1086716
+          }
+        ]
+      }
+    },
+    {
+      "id": "455806426",
+      "title": "HTML 02: Your First HTML Script",
+      "shortDescription": "Write your first lines of code in HTML5! Mark shows you how step-by-step.",
+      "thumbnail": "https://i.vimeocdn.com/video/953919291_800x450.png",
+      "releaseDate": "2020-09-08T09:08:27-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "LASSOFF",
+        "COURSE_HTML"
+      ],
+      "content": {
+        "dateAdded": "2020-09-08T09:08:27-04:00",
+        "duration": 421,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455806426.hd.mp4?s=2ae800768860d8e657a8cee70e6169aee75b811a&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 691603
+          }
+        ]
+      }
+    },
+    {
+      "id": "455806450",
+      "title": "HTML 03: Basic Text Markup",
+      "shortDescription": "Learn how to use HTML to display basic text. You'll learn the primary HTML Text markup tags.",
+      "thumbnail": "https://i.vimeocdn.com/video/953919850_800x450.png",
+      "releaseDate": "2020-09-08T09:08:32-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "LASSOFF",
+        "COURSE_HTML"
+      ],
+      "content": {
+        "dateAdded": "2020-09-08T09:08:32-04:00",
+        "duration": 460,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455806450.hd.mp4?s=9703f5a4bdd03b514c9a35ac54445b66ba3fd502&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 833033
+          }
+        ]
+      }
+    },
+    {
+      "id": "455806475",
+      "title": "HTML 04: Commenting Your Code",
+      "shortDescription": "Learn to leave comments in your HTML code like a pro!",
+      "thumbnail": "https://i.vimeocdn.com/video/953927353_800x450.png",
+      "releaseDate": "2020-09-08T09:08:36-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "LASSOFF",
+        "COURSE_HTML"
+      ],
+      "content": {
+        "dateAdded": "2020-09-08T09:08:36-04:00",
+        "duration": 185,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455806475.hd.mp4?s=9364d8760c00dd88fb44445f2598dcc073a92436&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 1259159
+          }
+        ]
+      }
+    },
+    {
+      "id": "455806497",
+      "title": "HTML 05: Lists",
+      "shortDescription": "People don't tend to read on the web-- They scan. Learn to create scannable HTML5 lists.",
+      "thumbnail": "https://i.vimeocdn.com/video/953938227_800x450.png",
+      "releaseDate": "2020-09-08T09:08:40-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "LASSOFF",
+        "COURSE_HTML"
+      ],
+      "content": {
+        "dateAdded": "2020-09-08T09:08:40-04:00",
+        "duration": 351,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455806497.hd.mp4?s=abe0a6093521e16ea6537e55da5e45e72c0c9ac6&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 844328
+          }
+        ]
+      }
+    },
+    {
+      "id": "455806521",
+      "title": "HTML 06: Styling Text",
+      "shortDescription": "Learn the CSS code used to style text and use different typefaces in your HTML code.",
+      "thumbnail": "https://i.vimeocdn.com/video/953939044_800x450.png",
+      "releaseDate": "2020-09-08T09:08:44-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "LASSOFF",
+        "COURSE_HTML"
+      ],
+      "content": {
+        "dateAdded": "2020-09-08T09:08:44-04:00",
+        "duration": 598,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455806521.hd.mp4?s=aca05974d5efe7f5f0e981ecf5f8c1b15652990a&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 1375121
+          }
+        ]
+      }
+    },
+    {
+      "id": "455806553",
+      "title": "HTML 07: HTML Color",
+      "shortDescription": "Learn how to apply the HTML color system and apply color to elements in your code.",
+      "thumbnail": "https://i.vimeocdn.com/video/953939585_800x450.png",
+      "releaseDate": "2020-09-08T09:08:49-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "LASSOFF",
+        "COURSE_HTML"
+      ],
+      "content": {
+        "dateAdded": "2020-09-08T09:08:49-04:00",
+        "duration": 233,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455806553.hd.mp4?s=6c4a6c279fba11ccd632e21e5690bd6c1b4d1c10&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 1499677
+          }
+        ]
+      }
+    },
+    {
+      "id": "455806580",
+      "title": "HTML 08: Hyperlinks",
+      "shortDescription": "Learn how to create links between documents and links within long HTML documents.",
+      "thumbnail": "https://i.vimeocdn.com/video/953939969_800x450.png",
+      "releaseDate": "2020-09-08T09:08:53-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "LASSOFF",
+        "COURSE_HTML"
+      ],
+      "content": {
+        "dateAdded": "2020-09-08T09:08:53-04:00",
+        "duration": 754,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455806580.hd.mp4?s=b892cee0808409ce212d6a0a17d8919a7589c378&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 1286020
+          }
+        ]
+      }
+    },
+    {
+      "id": "455806603",
+      "title": "HTML 09: Images",
+      "shortDescription": "Learn to include images in your HTML documents. You'll also create image links in this video.",
+      "thumbnail": "https://i.vimeocdn.com/video/953941118_800x450.png",
+      "releaseDate": "2020-09-08T09:08:57-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "LASSOFF",
+        "COURSE_HTML"
+      ],
+      "content": {
+        "dateAdded": "2020-09-08T09:08:57-04:00",
+        "duration": 554,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455806603.hd.mp4?s=30f19d817a3ec8b72f50c414574562541d605aa5&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 897544
+          }
+        ]
+      }
+    },
+    {
+      "id": "455806624",
+      "title": "HTML 10: Audio and Video",
+      "shortDescription": "Learn how to include media such as audio and video in your HTML code.",
+      "thumbnail": "https://i.vimeocdn.com/video/953941613_800x450.png",
+      "releaseDate": "2020-09-08T09:09:02-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "LASSOFF",
+        "COURSE_HTML"
+      ],
+      "content": {
+        "dateAdded": "2020-09-08T09:08:57-04:00",
+        "duration": 446,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455806624.hd.mp4?s=8d53ce8bd68d7fc43a5acd83912a78029e9b0bdc&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 911410
+          }
+        ]
+      }
+    },
+    {
+      "id": "455806657",
+      "title": "HTML 11: Div and Span Containers",
+      "shortDescription": "Learn how to create Div and Span containers to section content in your HTML documents.",
+      "thumbnail": "https://i.vimeocdn.com/video/953942322_800x450.png",
+      "releaseDate": "2020-09-08T09:09:06-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "LASSOFF",
+        "COURSE_HTML"
+      ],
+      "content": {
+        "dateAdded": "2020-09-08T09:08:57-04:00",
+        "duration": 335,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455806657.hd.mp4?s=a3e8e7211ef05c6ae8bbc50345102f4f397e3a55&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 1241250
+          }
+        ]
+      }
+    },
+    {
+      "id": "455806672",
+      "title": "HTML 12: Tables",
+      "shortDescription": "Tables provide a clear way of presenting data in HTML5.",
+      "thumbnail": "https://i.vimeocdn.com/video/953942933_800x450.png",
+      "releaseDate": "2020-09-08T09:09:11-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "LASSOFF",
+        "COURSE_HTML"
+      ],
+      "content": {
+        "dateAdded": "2020-09-08T09:09:11-04:00",
+        "duration": 517,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455806672.hd.mp4?s=98d3d0d8084eb31b19bbbe9d8bed5ed83adcc1e1&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 914460
+          }
+        ]
+      }
+    },
+    {
+      "id": "455806699",
+      "title": "HTML 013: Forms",
+      "shortDescription": "Forms are a critical part of any web site. You'll learn the fundamentals of HTML forms in this video.",
+      "thumbnail": "https://i.vimeocdn.com/video/953952685_800x450.png",
+      "releaseDate": "2020-09-08T09:09:15-04:00",
+      "genres": [
+        "educational",
+        "technology"
+      ],
+      "tags": [
+        "LASSOFF",
+        "COURSE_HTML"
+      ],
+      "content": {
+        "dateAdded": "2020-09-08T09:09:15-04:00",
+        "duration": 602,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/455806699.hd.mp4?s=9e174d6ecf55e4213384843fa0f46f43e6ada595&profile_id=175",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 983478
+          }
+        ]
+      }
     }
   ]
 }
